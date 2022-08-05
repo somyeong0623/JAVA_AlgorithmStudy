@@ -23,20 +23,15 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 ## 📌 파일 업로드 규칙 
 - 파일명 : ```week00/boj_1234/boj_1234_이소명.java``` 으로 해서 추가. 
+- 스터디직후에 프로젝트 주차 & 문제 패키지는 한명이 만들어 놓을 예정
+- 팀원들은 문제 패키지 안에 자기이름(영어)로 클래스만들어서 코드작성하고 커밋&푸쉬
+- <b> 커밋할때 git add . 처럼 모든파일 올리지 말고, 자기가 수정한 파일만 add 하기. </b>
+- 커밋 메세지는 자유 (한문제 풀때마다 하기)
 <br>
 
 ## 🔆 PUSH 방법
 - pull 먼저 한다.
-``` 
-$ git pull <remote 이름> master 
-```
-- pull 했을때 해당 주차 디렉토리 안보이면 따로 만들고 commit & push 한다.
-```
-$ git add.
-$ git commit -m "bojd_1234_이소명"
-$ git push <remote 이름> master
-```
-> push 할때 conflict 생기면 pull하고 다시 push 하면 된다.
+- push 할때 conflict 생기면 pull하고 다시 push 하면 된다. 
 <br>
 
 ## 📖 Problem List
