@@ -21,5 +21,5 @@ public class Somyeong {
 			return 1;
 		
 		return func(n-2)+func(n-1);
-	}
+	} // 
 }
