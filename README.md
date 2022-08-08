@@ -44,4 +44,4 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 |BOJ|10872|[팩토리얼](https://www.acmicpc.net/problem/10872)|재귀|B5|
 |BOJ|10870|[피보나치 수5](https://www.acmicpc.net/problem/10870)|재귀|B2|
 |BOJ|11729|[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|재귀|S1|
-|BOJ|2447|[별 찍기-10](https://www.acmicpc.net/problem/2447)|재귀|G1|
+|BOJ|2447|[별 찍기-10](https://www.acmicpc.net/problem/2447)|재귀|G5|
