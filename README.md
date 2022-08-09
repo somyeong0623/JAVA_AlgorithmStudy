@@ -37,26 +37,27 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 ## 📖 Problem List
 ### week01
-|소속|문제|제목|유형|난이도|
-|---|---|---|---|---|
-|BOJ|1244|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|구현|S3|
-|BOJ|17478|[재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)|재귀|S5|
-|BOJ|10872|[팩토리얼](https://www.acmicpc.net/problem/10872)|재귀|B5|
-|BOJ|10870|[피보나치 수5](https://www.acmicpc.net/problem/10870)|재귀|B2|
-|BOJ|11729|[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|재귀|S1|
-|BOJ|2447|[별 찍기-10](https://www.acmicpc.net/problem/2447)|재귀|G5|
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|BOJ|1244|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|구현|S3|
+|2|BOJ|17478|[재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)|재귀|S5|
+|3|BOJ|10872|[팩토리얼](https://www.acmicpc.net/problem/10872)|재귀|B5|
+|4|BOJ|10870|[피보나치 수5](https://www.acmicpc.net/problem/10870)|재귀|B2|
+|5|BOJ|11729|[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|재귀|S1|
+|6|BOJ|2447|[별 찍기-10](https://www.acmicpc.net/problem/2447)|재귀|G5|
 
 
 ### week02~week03
-|소속|문제|제목|유형|난이도|
-|---|---|---|---|---|
-|BOJ|5397|[키로거](https://www.acmicpc.net/problem/5397)|스택|S2|
-|BOJ|2630|[색종이 만들기](https://www.acmicpc.net/problem/2630)|분할정복|S2|
-|BOJ|1620|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|해쉬|S4|
-|BOJ|4358|[생태학](https://www.acmicpc.net/problem/4358)|문자열|S2|
-|BOJ|1758|[알바생 강호](https://www.acmicpc.net/problem/1758)|그리디|S4|
-|BOJ|1783|[병든 나이트](https://www.acmicpc.net/problem/1783)|구현|S4|
-|BOJ|2075|[N번째 큰 수](https://www.acmicpc.net/problem/1966)|정렬|S2|
-|BOJ|2078|[무한이진트리](https://www.acmicpc.net/problem/2078)|트리|S3|
-|BOJ|1966|[프린터큐](https://www.acmicpc.net/problem/1966)|구현|S3|
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|BOJ|5397|[키로거](https://www.acmicpc.net/problem/5397)|스택|S2|
+|2|BOJ|2630|[색종이 만들기](https://www.acmicpc.net/problem/2630)|분할정복|S2|
+|3|BOJ|1620|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|해쉬|S4|
+|4|BOJ|4358|[생태학](https://www.acmicpc.net/problem/4358)|문자열|S2|
+|5|BOJ|1758|[알바생 강호](https://www.acmicpc.net/problem/1758)|그리디|S4|
+|6|BOJ|1783|[병든 나이트](https://www.acmicpc.net/problem/1783)|구현|S4|
+|7|BOJ|2075|[N번째 큰 수](https://www.acmicpc.net/problem/1966)|정렬|S2|
+|8|BOJ|2078|[무한이진트리](https://www.acmicpc.net/problem/2078)|트리|S3|
+|9|BOJ|1966|[프린터큐](https://www.acmicpc.net/problem/1966)|구현|S3|
+|10|BOJ|15686|[치킨 배달](https://www.acmicpc.net/problem/15686)|구현|G5|
 
