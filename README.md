@@ -36,17 +36,6 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 <br>
 
 ## 📖 Problem List
-### week01
-|번호|소속|문제|제목|유형|난이도|
-|---|---|---|---|---|---|
-|1|BOJ|1244|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|구현|S3|
-|2|BOJ|17478|[재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)|재귀|S5|
-|3|BOJ|10872|[팩토리얼](https://www.acmicpc.net/problem/10872)|재귀|B5|
-|4|BOJ|10870|[피보나치 수5](https://www.acmicpc.net/problem/10870)|재귀|B2|
-|5|BOJ|11729|[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|재귀|S1|
-|6|BOJ|2447|[별 찍기-10](https://www.acmicpc.net/problem/2447)|재귀|G5|
-
-
 ### week02~week03
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
@@ -60,4 +49,16 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 |8|BOJ|2078|[무한이진트리](https://www.acmicpc.net/problem/2078)|트리|S3|
 |9|BOJ|1966|[프린터큐](https://www.acmicpc.net/problem/1966)|구현|S3|
 |10|BOJ|15686|[치킨 배달](https://www.acmicpc.net/problem/15686)|구현|G5|
+
+
+### week01
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|BOJ|1244|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|구현|S3|
+|2|BOJ|17478|[재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)|재귀|S5|
+|3|BOJ|10872|[팩토리얼](https://www.acmicpc.net/problem/10872)|재귀|B5|
+|4|BOJ|10870|[피보나치 수5](https://www.acmicpc.net/problem/10870)|재귀|B2|
+|5|BOJ|11729|[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)|재귀|S1|
+|6|BOJ|2447|[별 찍기-10](https://www.acmicpc.net/problem/2447)|재귀|G5|
+
 
