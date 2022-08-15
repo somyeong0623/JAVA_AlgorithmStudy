@@ -1,5 +1,7 @@
 package week02.boj_1783;
 // 병든 나이트
+// 입력 제한이 20억 이므로 N번 이상의 계산으로 생각하면 안된다.
+// 1초에 약 1억개를 계산한다고 생각한다.
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
