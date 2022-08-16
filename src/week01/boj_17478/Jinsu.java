@@ -3,10 +3,11 @@ import java.util.Scanner;
 
 public class Jinsu {
 	static String l = "";
+	
 	public static void recursion(int n) {
 		String underbar = l;
 		
-		if (n==0) {
+		if (n==0) {		// 기저조건 
 			System.out.println(underbar+"\"재귀함수가 뭔가요?\"");
 			System.out.println(underbar+"\"재귀함수는 자기 자신을 호출하는 함수라네\"");
 			System.out.println(underbar+"라고 답변하였지.");
