@@ -45,7 +45,7 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 |4|BOJ|4358|[생태학](https://www.acmicpc.net/problem/4358)|문자열|S2|
 |5|BOJ|1758|[알바생 강호](https://www.acmicpc.net/problem/1758)|그리디|S4|
 |6|BOJ|1783|[병든 나이트](https://www.acmicpc.net/problem/1783)|구현|S4|
-|7|BOJ|2075|[N번째 큰 수](https://www.acmicpc.net/problem/1966)|정렬|S2|
+|7|BOJ|2075|[N번째 큰 수](https://www.acmicpc.net/problem/2075)|정렬|S2|
 |8|BOJ|2078|[무한이진트리](https://www.acmicpc.net/problem/2078)|트리|S3|
 |9|BOJ|1966|[프린터큐](https://www.acmicpc.net/problem/1966)|구현|S3|
 |10|BOJ|15686|[치킨 배달](https://www.acmicpc.net/problem/15686)|구현|G5|
