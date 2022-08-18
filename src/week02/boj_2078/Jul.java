@@ -6,18 +6,14 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Jul {
-	static int left, right, a, b;
-
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringBuilder sb = new StringBuilder();
 		StringTokenizer st = new StringTokenizer(br.readLine().trim());
-		a = Integer.parseInt(st.nextToken());
-		b = Integer.parseInt(st.nextToken());
-		
-		while(true) {
-			if (a == 1 && b == 1) {
-				break ;
-			}
+		int a = Integer.parseInt(st.nextToken());
+		int b = Integer.parseInt(st.nextToken());
+		int left = 0,right = 0;
+		while(!(a == 1 && b == 1)) {
 			if (a > b) {
 				left++;
 				a = a-b;
@@ -27,7 +23,8 @@ public class Jul {
 				b = b-a;
 			}
 		}
-		System.out.println(left+" "+right);
+		sb.append(left).append(" ").append(right);
+		System.out.println(sb);
 
 	}
 }
