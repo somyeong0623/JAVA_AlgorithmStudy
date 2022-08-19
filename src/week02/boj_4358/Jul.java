@@ -1,15 +1,10 @@
 package week02.boj_4358;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
 // 생태학
 public class Jul {
@@ -17,22 +12,22 @@ public class Jul {
 	public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);
 		Map<String, Integer> sp = new HashMap<String, Integer>();
-		String spice = null;
+		String spice;
 		int total = 0;
-		while (true) {
-			spice  = sc.nextLine();				
-			
-			if(spice.length() ==0) {
+		while (sc.hasNextLine()) {
+			spice  = sc.nextLine();
+			if(spice.length() == 0 || spice == null||spice.charAt(0) == ' ') {
 				break;
 			}
-			
 			total++;
 			if (sp.containsKey(spice)) {
 				sp.put(spice, sp.get(spice)+1);
 			}else {
 				sp.put(spice, 1);
 			}
+			
 		}
+		sc.close();
 		String[] sortSpice = new String[sp.keySet().size()];
 		int index = 0;
 		for (String string : sp.keySet()) {
