@@ -17,7 +17,7 @@ public class Jinsu {
 			num[i] = sc.nextInt();
 		}
 		
-		Comparator<Integer> com = new Comparator<Integer>() {
+		Comparator<Integer> com = new Comparator<Integer>() {	//내림차순
 			@Override
 			public int compare(Integer o1, Integer o2) {
 				return o2-o1;

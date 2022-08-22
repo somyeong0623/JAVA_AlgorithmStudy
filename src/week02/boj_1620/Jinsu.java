@@ -40,7 +40,7 @@ public class Jinsu {
 		System.out.println(sb);
 	}
 
-	private static boolean isNum(String str) {
+	private static boolean isNum(String str) {		//숫자인지 문자열인지 판별
 		for(int i=0; i<str.length(); i++) {
 			if(!Character.isDigit(str.charAt(i))) {
 				return false;

@@ -52,7 +52,7 @@ public class Jinsu {
 				}
 				ans += tmp;	// 탐색완료 후 최소거리 저장
 			}
-			result = Math.min(ans, result);	// 
+			result = Math.min(ans, result); 
 			return;
 		}
 		
