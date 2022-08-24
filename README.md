@@ -39,11 +39,11 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 ### week04
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
-|1|BOJ|14502|[연구소](https://www.acmicpc.net/problem/14502)|구현,그래프탐색|G4|
-|2|BOJ|14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|브루트포스,백트래킹|S1|
-|3|BOJ|6497|[전력난](https://www.acmicpc.net/problem/6497)|그래프이론, 최소 스패닝 트리|G4|
+|1|BOJ|14502|[연구소](https://www.acmicpc.net/problem/14502)|구현, 그래프탐색|G4|
+|2|BOJ|14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|브루트포스, 백트래킹|S1|
+|3|BOJ|6497|[전력난](https://www.acmicpc.net/problem/6497)|그래프이론, 최소스패닝트리|G4|
 |4|BOJ|17779|[게리맨더링2](https://www.acmicpc.net/problem/17779)|구현, 시뮬레이션|G4|
-|5|BOJ|20055|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|구현, |G5|
+|5|BOJ|20055|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|구현, 시뮬레이션|G5|
 
 
 ### week02~week03
