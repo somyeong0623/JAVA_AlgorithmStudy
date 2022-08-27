@@ -3,7 +3,6 @@ package week04.boj_14888;
 import java.util.Scanner;
 
 public class Jinsu {
-
 	static int N, max, min;
 	static int[] num;
 	static int[] oper;
