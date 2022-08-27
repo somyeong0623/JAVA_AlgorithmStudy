@@ -1,4 +1,4 @@
-package week03.boj_17779;
+package week04.boj_20055;
 
 public class structure {
 
