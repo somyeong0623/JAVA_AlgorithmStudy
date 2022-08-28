@@ -1,4 +1,4 @@
-package week04.boj_20055;
+package week04.boj_14502;
 import java.awt.Point;
 import java.io.BufferedReader;
 import java.io.IOException;
