@@ -39,7 +39,7 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 ### week05
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
-|1|BOJ|2252|[줄 세우기](https://www.acmicpc.net/problem/2252)|그래프 이론, 우위상 정렬|G3|
+|1|BOJ|2252|[줄 세우기](https://www.acmicpc.net/problem/2252)|그래프 이론, 위상 정렬|G3|
 |2|BOJ|19535|[ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535)|수학, 트리, 조합론|G3|
 |3|BOJ|15684|[사다리 조작](https://www.acmicpc.net/problem/15684)|구현, 브루트포스, 백트래킹|G3|
 |4|BOJ|19238|[스타트 택시](https://www.acmicpc.net/problem/19238)|구현, 시뮬레이션,그래프,BFS|G3|
