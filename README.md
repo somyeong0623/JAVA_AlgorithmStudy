@@ -36,6 +36,15 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 <br>
 
 ## 📖 Problem List
+### week06
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|BOJ|1405|[미친 로봇](https://www.acmicpc.net/problem/1405)|그래프, 브루트포스, 백트래킹, DFS|G5|
+|2|BOJ|2146|[다리 만들기](https://www.acmicpc.net/problem/2146)|그래프 이론, 그래프 탐색, BFS|G3|
+|3|BOJ|1245|[농장 관리](https://www.acmicpc.net/problem/1245)|그래프, BFS, DFS|G5|
+|4|BOJ|16234|[인구 이동](https://www.acmicpc.net/problem/16234)|그래프, BFS,시뮬레이션|G5|
+|5|BOJ|18188|[다오의 데이트](https://www.acmicpc.net/problem/18188)|그래프, 브루트포스, BFS|G4|
+
 ### week05
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
