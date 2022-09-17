@@ -3,7 +3,7 @@ package week06.boj_16234;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayDeque;
+import java.ut1il.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Queue;
 import java.util.StringTokenizer;
