@@ -20,7 +20,7 @@ public class CJW {
         return false;
     }
 
-    private static boolean dfs(int x, int y, int depth) {
+    private static boolean subset(int x, int y, int depth) {
         if (depth >= N) {
             if (map[y][x] == 'Z') {
                 selectedCount = depth;
@@ -40,7 +40,7 @@ public class CJW {
             isSelected[depth] = command[depth][i];
             int[] dir = dirs[move.indexOf(command[depth][i])];
             if (isMove(x + dir[0], y + dir[1])) {
-                boolean res = dfs(x + dir[0], y + dir[1], depth + 1);
+                boolean res = subset(x + dir[0], y + dir[1], depth + 1);
                 if (res)
                     return true;
             }
@@ -85,7 +85,7 @@ public class CJW {
             command[c][1] = st.nextToken().charAt(0);
         }
 
-        boolean res = dfs(px, py, 0);
+        boolean res = subset(px, py, 0);
         if (res) {
             System.out.println("YES");
             for (int i = 0; i < selectedCount; i++) {
