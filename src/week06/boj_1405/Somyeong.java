@@ -8,10 +8,9 @@ import java.util.StringTokenizer;
 /*
  *(이동경로가 단순할 확률) = 1 - (이동경로가 단순하지 않을 확률)로 구했다.
  * 단순하지 않는 경우는 이미 방문한 곳을 또 방문하는 경우이다.
- * 
- * 
+ *
  */
-
+//1405. 미친 로봇 
 public class Somyeong {
 	static int n;
 	static double p[];
