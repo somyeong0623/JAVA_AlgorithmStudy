@@ -66,18 +66,25 @@ public class Somyeong {
 			dir[i][0] = str[0].charAt(0);
 			dir[i][1] = str[1].charAt(0);
 		}
-
+		
+//		System.out.println("===dir===");
+//		for(int i=0; i<n; i++) {
+//			System.out.println(dir[i][0] + " "+dir[i][1]);
+//		}
 		// bfs
 		Queue<Point> queue = new ArrayDeque<Point>();
 		queue.offer(new Point(r, c));
-		int index = 0;
 		boolean meet = false;
 		
 		loop: while (!queue.isEmpty()) {
 			Point cur = queue.poll();
+			int idx=way[cur.r][cur.c].length();
+			if(idx==n) // 이미 만날수없다는 사실은 확정났고, queue에 남아있는 point 처리해야하므로 break로 끝내
+				break;
+//			System.out.println("idx: "+idx);
 
 			for (int i = 0; i < 2; i++) {
-				char direction = dir[index][i];
+				char direction = dir[idx][i];
 
 //				System.out.println("direction: " + direction);
 				int nr = cur.r + map.get(direction).r;
@@ -95,9 +102,6 @@ public class Somyeong {
 				}
 
 			}
-			index++;
-			if (index == n)
-				break;
 		}
 
 //		for (int i = 1; i <= H; i++) {
