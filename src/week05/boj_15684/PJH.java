@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.StringTokenizer;
-
+ 
 public class PJH {
 	static int[][] table;
 	static int N, M, H;

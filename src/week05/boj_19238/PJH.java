@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class PJH {
+public class PJH { 
 	static int[][] table;
 	static int r, c;
 	static int N, M, limit;

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 
-public class PJH{//19535
+public class PJH{//19535 
 	static Node[] node;
 	static long look_d;
 	static long look_g;
