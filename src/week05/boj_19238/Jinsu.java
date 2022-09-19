@@ -25,7 +25,6 @@ public class Jinsu {
 	
 	static int N, M, fuel;
 	static int[][] map;
-	static move[] list;
 	
 	//상, 좌, 하, 우
 	static int[] dx = {-1, 0, 1, 0};
@@ -35,12 +34,11 @@ public class Jinsu {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
 		
-		N = Integer.parseInt(st.nextToken());
-		M = Integer.parseInt(st.nextToken());
-		fuel = Integer.parseInt(st.nextToken());
+		N = Integer.parseInt(st.nextToken());		//NxN
+		M = Integer.parseInt(st.nextToken());		//승객수
+		fuel = Integer.parseInt(st.nextToken());	//택시 연료 양
 		
-		map = new int[N+1][N+1];
-		list = new move[M];
+		map = new int[N+1][N+1];					//지도
 		
 		for(int i=1; i<=N; i++) {
 			st = new StringTokenizer(br.readLine());
@@ -50,53 +48,56 @@ public class Jinsu {
 		}
 		
 		st = new StringTokenizer(br.readLine());
-		int taxi_x = Integer.parseInt(st.nextToken());
+		int taxi_x = Integer.parseInt(st.nextToken());	//택시의 좌표
 		int taxi_y = Integer.parseInt(st.nextToken());
 		
 		for(int i=0; i<M; i++) {
 			st = new StringTokenizer(br.readLine());
-			int start_x = Integer.parseInt(st.nextToken());
-			int start_y = Integer.parseInt(st.nextToken());
-			int end_x = Integer.parseInt(st.nextToken());
-			int end_y = Integer.parseInt(st.nextToken());
+			int person_x = Integer.parseInt(st.nextToken());	//승객의 좌표
+			int person_y = Integer.parseInt(st.nextToken());
+			int finish_x = Integer.parseInt(st.nextToken());	//목적지 좌표
+			int finish_y = Integer.parseInt(st.nextToken());
 			
-			list[i] = new move(start_x, start_y, end_x, end_y);
+			map[person_x][person_y] = 2;						//승객있는 위치
+			map[finish_x][finish_y] = 3;						//목적지 위치
+			
 		}
 		
-		
-		bfs(taxi_x, taxi_y);
+		person_bfs(taxi_x, taxi_y); //승객 찾는 bfs
 	}
 	
-	private static void bfs(int x, int y) {
+	private static void person_bfs(int r, int c) {
 		Queue<Point> q = new ArrayDeque<>();
 		
-		q.offer(new Point(x, y));
+		q.offer(new Point(r, c));
+		int cnt = 0;
 		
 		while (!q.isEmpty()) {
+			cnt++;	//택시 이동한 거리 카운트 (나중에 연료 양 빼주기 위함)
 			Point cur  = q.poll();
-			int r = cur.x;
-			int c = cur.y;
+			int x = cur.x;
+			int y = cur.y;
 			
 			for(int k=0; k<4; k++) {
-				int nx = r+dx[k];
-				int ny = c+dy[k];
+				int nx = x+dx[k];
+				int ny = y+dy[k];
 				
-				if (nx<0 || ny<0 || nx>=N || ny>=N || map[nx][ny] == 1) continue;
-				
-				for(int i=0; i<M; i++) {
-					if(nx == list[i].start_x && ny == list[i].start_y) {
-						person_move(nx, ny);	//승객 좌표면 다시 목적지까지 bfs
-					}
-					else {
-						q.offer(new Point(nx, ny));
-					}
+				if (nx < 1 || ny < 1 || nx > N  || ny > N || map[nx][ny] == 1) {
+					continue;
 				}
+				
+				if (map[nx][ny] == 2) {	//승객을 발견했다면
+					fuel -= cnt;
+					cnt = 0;
+					finish_bfs(nx, ny);
+				}
+				
 			}
 		}
 		
 	}
 
-	private static void person_move(int taxi_x, int taxi_y) {
+	private static void finish_bfs(int nx, int ny) {
 		
 	}
 }
