@@ -42,7 +42,10 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 |1|BOJ|15685|[드래곤 커브](https://www.acmicpc.net/problem/15685)|구현, 시뮬레이션|G4|
 |2|BOJ|2206|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|그래프 탐색,BFS|G3|
 |3|BOJ|1916|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|그래프, 다익스트라|G5|
-|4|BOJ|3190|[인구 이동](https://www.acmicpc.net/problem/3190)|구현, 시뮬레이션, 자료구조, 덱, 큐|G4|
+|4|BOJ|3190|[뱀](https://www.acmicpc.net/problem/3190)|구현, 시뮬레이션, 자료구조, 덱, 큐|G4|
+|5|BOJ|2636|[치즈](https://www.acmicpc.net/problem/2636)|구현, 시뮬레이션,  그래프, BFS|G4|
+
+
 
 
 ### week06
