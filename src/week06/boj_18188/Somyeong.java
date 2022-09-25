@@ -79,7 +79,7 @@ public class Somyeong {
 		loop: while (!queue.isEmpty()) {
 			Point cur = queue.poll();
 			int idx=way[cur.r][cur.c].length();
-			if(idx==n) // 이미 만날수없다는 사실은 확정났고, queue에 남아있는 point 처리해야하므로 break로 끝내
+			if(idx==n) // 이미 만날수없다는 사실은 확정났고, queue에 남아있는 point 처리해야하므로 break로 끝내기 
 				break;
 //			System.out.println("idx: "+idx);
 
