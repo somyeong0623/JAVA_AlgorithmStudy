@@ -9,11 +9,12 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 |서울 14반|이소명|
 |서울 14반|정진수|
 |서울 14반|최진우|
+|서울 14반|정우진|
 <br>
 
 ## 💡 STUDY
 - 스터디 날짜 : 매주 월요일 PM 9:00
-- 월요일마다 문제 선정 (주 7문제). 
+- 월요일마다 문제 선정 (인원수만큼. 주 6문제). 
 <br>
    
 ## 📁 폴더구조
@@ -36,6 +37,15 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 <br>
 
 ## 📖 Problem List
+### week08
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|Programmers||[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|해시|Lv3|
+|2|BOJ|11657|[타임머신](https://www.acmicpc.net/problem/11657)|그래프 이론, 벨만-포드|G4|
+|3|BOJ|1261|[알고스팟](https://www.acmicpc.net/problem/1261)|그래프, 다익스트라,BFS|G4|
+|4|BOJ|17070|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|DP, 그래프|G5|
+|5|BOJ|1309|[동물원](https://www.acmicpc.net/problem/1309)|DP|S1|
+
 ### week07
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
