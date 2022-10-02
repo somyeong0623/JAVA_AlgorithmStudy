@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-//2636. 치즈 
+//2636. 치즈 (주석추가) 
 public class Somyeong {
 	static class Point {
 		int r;
