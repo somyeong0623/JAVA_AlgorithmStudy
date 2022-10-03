@@ -50,11 +50,9 @@ public class Somyeong {
 		}
 
 		while (true) {
-			meetAir(0, 0); //공기와 접촉된 칸 -1로 채우기  (0,0)은 가장자리라 항상 공기로 취급되니까 (0,0)으로 bfs돌리기 
-			
 			if (existCheese() == 0) // 남은 치즈가 없으면  while문 끝내기 
 				break;
-
+			bfs(0, 0); //공기와 접촉된 칸 -1로 채우기  (0,0)은 가장자리라 항상 공기로 취급되니까 (0,0)으로 bfs돌리기 
 			simulate(); // 공기와 접촉한 좌표 -1로 채우는 함수 
 			answer++; // 시간 1 증가 
 
@@ -65,7 +63,7 @@ public class Somyeong {
 
 	}
 
-	public static void meetAir(int r, int c) {
+	public static void bfs(int r, int c) {
 		boolean visited[][] = new boolean[R + 1][C + 1];
 		Queue<Point> queue = new ArrayDeque<Point>();
 		visited[r][c] = true;
