@@ -37,6 +37,16 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 <br>
 
 ## 📖 Problem List
+### week09
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|Programmers|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|BFS, 그래프, 비트마스킹|G3|
+|2|BOJ|2234|[성곽](https://www.acmicpc.net/problem/2234)|그래프 이론, 벨만-포드|G4|
+|3|BOJ|1561|[놀이공원](https://www.acmicpc.net/problem/1561)|이분 탐색, 매개 변수 탐색|G2|
+|4|BOJ|20057|[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|구현, 시뮬레이션|G3|
+|5|BOJ|11779|[최소비용 구하기2](https://www.acmicpc.net/problem/11779)|다익스트라, 그래프 이론|G3|
+|6|SWEA|1952|[수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE&problemTitle=%EC%88%98%EC%98%81%EC%9E%A5&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|?|SW 모의 역테|
+
 ### week08
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
