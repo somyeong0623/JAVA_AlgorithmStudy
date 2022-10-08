@@ -30,6 +30,8 @@ public class Somyeong {
 
 			arr[r][c] = 1; // 시작점 체크 
 			list = new ArrayList<>();  // 각 드래곤커브마다 전역으로 새로운 리스트 생성 
+			
+			//0세대 드래곤 커브 셋팅 
 			switch (d) { // 시작점에서의 방향에 대한 다음꼭짓점 체크해주고 나서 func함수 시작 
 			case 0:
 				c++;

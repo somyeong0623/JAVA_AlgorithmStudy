@@ -76,6 +76,7 @@ public class Somyeong  {
 		PriorityQueue<Info> pq = new PriorityQueue<Info>();
 		pq.add(new Info(v,0));
 		dist[v]=0;
+		visited[v]=true;
 		
 		while(!pq.isEmpty()) {
 			Info cur = pq.poll();
@@ -92,6 +93,7 @@ public class Somyeong  {
 				if(visited[next_num]==false && dist[next_num]>dist[cur_num]+next_cost) {
 					dist[next_num]=dist[cur_num]+next_cost;
 					pq.add(new Info(next_num,dist[next_num]));
+					
 				}
 			}
 		}
