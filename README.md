@@ -40,8 +40,8 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 ### week09
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
-|1|Programmers||[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|BFS, 그래프, 비트마스킹|Lv3|
-|2|BOJ|2234|[성곽](https://www.acmicpc.net/problem/2234)|그래프 이론, 벨만-포드|G3|
+|1|Programmers||[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|BFS,DFS|Lv3|
+|2|BOJ|2234|[성곽](https://www.acmicpc.net/problem/2234)|그래프, BFS, 비트마스킹|G3|
 |3|BOJ|1561|[놀이공원](https://www.acmicpc.net/problem/1561)|이분 탐색, 매개 변수 탐색|G2|
 |4|BOJ|20057|[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|구현, 시뮬레이션|G3|
 |5|BOJ|11779|[최소비용 구하기2](https://www.acmicpc.net/problem/11779)|다익스트라, 그래프 이론|G3|
