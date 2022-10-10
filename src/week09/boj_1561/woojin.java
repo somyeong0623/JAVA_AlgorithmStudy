@@ -3,8 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
-
-public class boj_1561 {
+package week09.boj_1561;
+public class test {
 	static long n;
 	static int m;
 	static int gp[];
