@@ -37,6 +37,16 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 <br>
 
 ## 📖 Problem List
+### week10
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|Programmers||[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|?|?|
+|2|Programmers||[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|?|?|
+|3|Programmers||[줄서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|?|?|
+|4|Programmers||[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|?|?|
+|5|Programmers|11779|[여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|?|?|
+|6|BOJ|2565|[전깃줄](https://www.acmicpc.net/problem/2565)|?|?|
+
 ### week09
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
