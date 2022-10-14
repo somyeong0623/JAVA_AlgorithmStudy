@@ -55,18 +55,18 @@ public class Somyeong {
 		start=Integer.parseInt(st.nextToken());
 		end=Integer.parseInt(st.nextToken());
 		
-		PriorityQueue<Edge> pq= new PriorityQueue<Edge>((o1,o2)->o1.cost-o2.cost); // 비용 오른차순 
-//		Queue<Edge> pq = new ArrayDeque<Edge>();// 그냥 queue쓰면 틀렸습니다인데 왜지 ?????
+//		PriorityQueue<Edge> pq= new PriorityQueue<Edge>((o1,o2)->o1.cost-o2.cost); // 비용 오른차순 
+		Queue<Edge> pq = new ArrayDeque<Edge>();// 그냥 queue쓰면 틀렸습니다인데 왜지 ?????
 		pq.add(new Edge(start,0));
 		dist[start]=0;
 		cnt[start]=1;
-		visit[start]=true;
 		
 		// 다익스트라 
 		while(!pq.isEmpty()) {
 			Edge cur = pq.poll();
+			if(cur.cost>dist[cur.to]) continue;// 이미 처리된 정점이면 무시 
 			
-			if(cur.to==end) break;
+			if(cur.to==end) continue; //대박 
 			
 			for(int i=0; i<edges[cur.to].size(); i++) {
 				Edge next = edges[cur.to].get(i);

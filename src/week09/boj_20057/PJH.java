@@ -16,7 +16,7 @@ public class PJH {
 		StringTokenizer st;
 		int N = Integer.parseInt(bf.readLine());
 		answer = 0;
-		table = new Node[N][N];
+		table = new Node[N][N];	
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				table[i][j] = new Node(i, j);

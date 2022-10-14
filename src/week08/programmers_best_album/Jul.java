@@ -70,6 +70,6 @@ public class Jul {
 			answer[i] = result.get(i);
 		}
         System.out.println(Arrays.toString(answer));
-        return answer;
+        return answer;	
     }
 }
