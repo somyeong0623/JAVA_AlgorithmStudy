@@ -1,4 +1,4 @@
-package week10.programmers_HowToLineUp;
+package week10.programmers_Immigration;
 
 import java.util.*;
 public class Jul {
