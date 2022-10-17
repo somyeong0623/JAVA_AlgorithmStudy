@@ -3,7 +3,7 @@ package week10.programmers_Immigration;
 import java.util.*;
 
 // 이분탐색_입국심사 
-class Solution {
+class Somyeong {
     public long solution(int n, int[] times) {
         long answer = Long.MAX_VALUE;
         int size= times.length;
