@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class Main {
+public class PJH {
 	static ArrayList<Edge> list;
 
 	public static void main(String[] args) throws Exception {

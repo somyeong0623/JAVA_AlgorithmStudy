@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class Main {
+public class woojin {
 
 	static class go implements Comparable<go> {
 
