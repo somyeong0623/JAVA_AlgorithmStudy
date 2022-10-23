@@ -44,6 +44,7 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 |2|Programmers||[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|?|?|
 |3|BOJ||[거울 설치](https://www.acmicpc.net/problem/2151)|?|?|
 |4|Programmers||[비밀 지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|?|?|
+|5|Programmers||[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)|?|?|
 
 ### week10
 |번호|소속|문제|제목|유형|난이도|
