@@ -40,7 +40,7 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 ### week12
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
-|1|Programmers||[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|?|?|
+|1|Programmers||[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|?|?|
 |2|BOJ|2470|[두 용액](https://www.acmicpc.net/problem/2470)|?|?|
 |3|BOJ|2151|[거울 설치](https://www.acmicpc.net/problem/2151)|?|?|
 |4|Programmers||[비밀 지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|?|?|
