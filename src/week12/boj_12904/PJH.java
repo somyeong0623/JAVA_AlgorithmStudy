@@ -1,4 +1,4 @@
-package Test;
+package week12.boj_12904;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
