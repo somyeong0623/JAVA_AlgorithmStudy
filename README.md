@@ -45,7 +45,7 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 |3|BOJ|14499|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|?|?|
 |4|Programmers||[양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|?|?|
 |5|Programmers||[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)|?|?|
-|6|BOJ|12904|[A와 B](https://school.programmers.co.kr/learn/courses/30/lessons/72415](https://www.acmicpc.net/problem/12904))|?|?|
+|6|BOJ|12904|[A와 B](https://www.acmicpc.net/problem/12904))|?|?|
 
 
 ### week11
