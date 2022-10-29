@@ -1,4 +1,4 @@
-package week12.programmers_arrowcontest;
+package week12.programmers_ArrowContest;
 import java.util.Arrays;
 
 public class Jul {
