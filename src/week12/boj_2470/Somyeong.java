@@ -38,12 +38,9 @@ public class Somyeong {
 				answer2=arr[end];
 			}
 			
-			if(mid==0) {
-				break;  //여기서 break없으면 시간초과 
-				
-			}else if(arr[start]+arr[end]>0) { // 합이 양수면 합을 줄이는 방향으로 
+			if(arr[start]+arr[end]>0) { // 합이 양수면 합을 줄이는 방향으로 
 				end--;
-			}else if(arr[start]+arr[end]<0){ // 합이 음수면 합을 증가시키는 방향으로 
+			}else{ // 합이 음수면 합을 증가시키는 방향으로 
 				start++; 
 			}
 		}
