@@ -37,6 +37,16 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 <br>
 
 ## 📖 Problem List
+### week13
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|Programmers||[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|?|?|
+|2|Programmers||[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|?|?|
+|3|BOJ|1062|[가르침](https://www.acmicpc.net/problem/1062)|?|?|
+|4|Programmers||[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|?|?|
+|5|Programmers||[양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|?|?|
+|6|BOJ|1806|[부분합](https://www.acmicpc.net/problem/1806)|?|?|
+
 ### week12
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
@@ -45,7 +55,7 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 |3|BOJ|14499|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|?|?|
 |4|Programmers||[양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|?|?|
 |5|Programmers||[카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415)|?|?|
-|6|BOJ|12904|[A와 B](https://www.acmicpc.net/problem/12904)|?|?|
+|6|BOJ||[A와 B](https://www.acmicpc.net/problem/12904)|?|?|
 
 
 ### week11
