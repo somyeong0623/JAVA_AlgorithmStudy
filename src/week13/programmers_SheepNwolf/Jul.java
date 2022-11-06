@@ -1,5 +1,7 @@
 package week13.programmers_SheepNwolf;
 
+import java.util.ArrayList;
+
 public class Jul {
 
 	public static void main(String[] args) {
@@ -18,8 +20,33 @@ public class Jul {
 			{6, 9}, {9, 10}} 
 						));
 	}
+	static int m;
+	static int[][] Edges;
+	static int[] Info;
 	public static int solution(int[] info, int[][] edges) {
         int answer = 0;
+        Edges = edges;
+        Info = info;
+        ArrayList<Integer> next = new ArrayList<>();
+        next.add(0);
+        dfs(0,0,0,next,info);
+        answer = m;
         return answer;
     }
+	private static void dfs(int ver, int sheep, int wolf, ArrayList<Integer> next, int[] info) {
+		if(info[ver] == 0) sheep++;
+		else wolf++;
+		m = Math.max(m, sheep);
+		if(sheep<=wolf) return;
+		ArrayList<Integer> re_next = new ArrayList<>();
+		for (Integer integer : next) {
+			if(integer != ver)re_next.add(integer);
+		}
+		for (int[] is : Edges) {
+			if(is[0] == ver)re_next.add(is[1]);
+		}
+		for (Integer n : re_next) {
+			dfs(n, sheep, wolf, re_next, info);
+		}
+	}
 }
