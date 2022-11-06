@@ -1,4 +1,4 @@
-package week13.programmer_SheepNwolf;
+package week13.programmers_SheepNwolf;
 
 public class Jul {
 
