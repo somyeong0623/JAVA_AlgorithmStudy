@@ -37,6 +37,16 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 <br>
 
 ## 📖 Problem List
+
+### week14
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|BOJ|1005|[ACM Craft](https://www.acmicpc.net/problem/1005)|?|G3|
+|2|BOJ|17140|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|?|G4|
+|3|BOJ|1082|[방 번호](https://www.acmicpc.net/problem/1082)|?|G3|
+
+
+
 ### week13
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
