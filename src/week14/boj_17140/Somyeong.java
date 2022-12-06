@@ -26,7 +26,7 @@ public class Somyeong {
 		}
 
 		// 등장 횟수 기준 오름차순, 숫자 기준 오름차순 
-		public int compareTo(Info o) {
+		public int compareTo(Info o) { 
 			if (this.cnt == o.cnt)
 				return this.num - o.num;
 			return this.cnt - o.cnt;

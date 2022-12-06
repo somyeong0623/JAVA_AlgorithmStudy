@@ -36,7 +36,7 @@ public class Jul{
 				int a = Integer.parseInt(st.nextToken());
 				int b = Integer.parseInt(st.nextToken());
 				graph.get(a).add(b);
-				degree[b]++;
+				degree[b]++;	
 			}
 			st = new StringTokenizer(br.readLine());
 			target = Integer.parseInt(st.nextToken());
