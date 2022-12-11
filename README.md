@@ -38,6 +38,13 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 ## 📖 Problem List
 
+### week15
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|BOJ|8980|[택배](https://www.acmicpc.net/problem/8980)|?|G2|
+|2|BOJ|1976|[여행 가자](https://www.acmicpc.net/problem/1976)|?|G4|
+|3|BOJ|1781|[컵라면](https://www.acmicpc.net/problem/1781)|?|G3|
+
 ### week14
 |번호|소속|문제|제목|유형|난이도|
 |---|---|---|---|---|---|
