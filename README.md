@@ -37,6 +37,12 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 <br>
 
 ## 📖 Problem List
+### week16
+|번호|소속|문제|제목|유형|난이도|
+|---|---|---|---|---|---|
+|1|BOJ|1647|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|?|G4|
+|2|BOJ|9935|[문자열 폭발](https://www.acmicpc.net/problem/199935)|?|G4|
+|3|BOJ|2573|[빙산](https://www.acmicpc.net/problem/2573)|?|G4|
 
 ### week15
 |번호|소속|문제|제목|유형|난이도|
