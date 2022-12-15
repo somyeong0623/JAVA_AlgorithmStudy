@@ -30,7 +30,7 @@ public class Somyeong {
 			K=Integer.parseInt(st.nextToken());
 			 
 			time=new int[N+1]; // 건설하는데 걸리는 시간 
-			dp = new int[N+1];
+			dp = new int[N+1]; 
 			edges = new ArrayList[N+1];
 			indegree = new int[N+1]; //진입차수 저장 
 			st = new StringTokenizer(br.readLine());
