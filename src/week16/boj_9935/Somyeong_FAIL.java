@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 // 9935. 문자열 폭발 
-public class Somyeong {
+public class Somyeong_FAIL {
 	static String s,bomb,answer="", temp;
 	static int size;
 	static ArrayList<Character> list = new ArrayList<Character>();
