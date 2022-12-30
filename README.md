@@ -45,6 +45,16 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 ## 📖 Problem List
 
+
+### week18
+
+| 번호 | 소속 | 문제 | 제목                                                   | 유형 | 난이도 |
+| ---- | ---- | ---- | ------------------------------------------------------ | ---- | ------ |
+| 1    | BOJ  | 1167 | [트리의 지름](https://www.acmicpc.net/problem/1167) | ?    | G2     |
+| 2    | BOJ  | 1516 | [게임 개발](https://www.acmicpc.net/problem/1516)    | ?    | G3     |
+| 3    | BOJ  | 9527 | [1의 개수 세기](https://www.acmicpc.net/problem/9527)           | ?    | G2     |
+
+
 ### week17
 
 | 번호 | 소속 | 문제 | 제목                                                   | 유형 | 난이도 |
