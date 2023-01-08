@@ -49,7 +49,7 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 | 번호 | 소속 | 문제 | 제목                                                   | 유형 | 난이도 |
 | ---- | ---- | ---- | ------------------------------------------------------ | ---- | ------ |
 | 1    | programmers  | 92344 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | ?    | ?     |
-| 2    | BOJ  | 1300 | [게임 개발](https://www.acmicpc.net/problem/1300)    | ?    | G2     |
+| 2    | BOJ  | 1300 | [K번째 수](https://www.acmicpc.net/problem/1300)    | ?    | G2     |
 | 3    | BOJ  | 2412 | [암벽 등반](https://www.acmicpc.net/problem/2412)           | ?    | G4     |
 
 ### week18
