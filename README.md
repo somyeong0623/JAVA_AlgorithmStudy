@@ -45,6 +45,16 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 ## 📖 Problem List
 
+### week21
+
+| 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
+| ---- | ---- | ----- | -------------------------------------------------- | ---- | ------ |
+| 1    | BOJ  | 22866 | [탑 보기](https://www.acmicpc.net/problem/22866)    | ?    | G3     |
+| 2    | BOJ  | 5549 | [행성 탐사](https://www.acmicpc.net/problem/5549) | ?    | G5     |
+| 3    | BOJ  | 2571 | [색종이 - 3](https://www.acmicpc.net/problem/2571) | ?    | G3     |
+
+
+
 ### week20
 
 | 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
