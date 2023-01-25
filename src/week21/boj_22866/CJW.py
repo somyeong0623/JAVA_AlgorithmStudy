@@ -36,6 +36,7 @@ for idx, val in enumerate(arr):
     idx = len(arr) - idx - 1
     while len(stack) > 0 and stack[-1][1] <= val:
         stack.pop()
+    # 뒤 + 앞이므로 += 을 이용함.
     label[idx + 1] += len(stack)
 
     if len(stack) > 0:
