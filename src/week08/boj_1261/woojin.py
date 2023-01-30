@@ -15,57 +15,38 @@ from collections import Counter
 input = sys.stdin.readline
 
 
+n,m=map(int,input().split())
 
-#우선 벽을 부수는 행위를 생각해서 진행을 해보자!
-m,n=map(int,input().split())
+#a,c,i,n,t
 
-graph=[]
-
-for _ in range(n):
-    t=list(map(int,input().rstrip()))
-    graph.append(t)
-visit=[[0 for _ in range(m)] for _ in range(n)]
+#남은 알파멧의 개수중에서 nC
 
 
-#최소한 부수어야 하는 벽을 의미함
-
-def bfs():
-
-    no=deque()
-    yes=deque()
-
-    dx=[-1,0,1,0]
-    dy=[0,1,0,-1]
-
-    no.append((0,0,0))
-    visit[0][0]=1
-
-
-    while(len(no)>0) :
-        a1,a2,a3=no.popleft()
-        for i in range(4):
-            zx=a1+dx[i]
-            zy=a2+dy[i]
-            if(0<=zx<n and 0<=zy<m):
-                if (zx == n - 1 and zy == m - 1):
-                    if (graph[zx][zy]==0):
-                        print(a3)
-                    else:
-                        print(a3+1)
-                    exit(0)
-                if(graph[zx][zy]==0):
-                    if(visit[zx][zy]==0):
-                        visit[zx][zy]=1
-                        no.appendleft((zx,zy,a3))
-                else:
-                    if (visit[zx][zy]==0):
-                        visit[zx][zy]=1
-                        no.append((zx, zy, a3+1))
+# if m==26:
+#     print(n)
+# elif m<5:
+#     print(0)
+# else:
+#     #조합으로 해서 최대 단어 개수를 파악 하도록 하자
+#
+print('b'-'a')
 
 
 
 
-if(n==m and n==1):
-    print(0)
-else:
-    bfs()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

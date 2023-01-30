@@ -1,7 +1,6 @@
 def dfs(sheep, wolf,visit,edge,info ) : # 양개수 , 늑대개수 ,현재 방문한얘들 ,visit 배열
     global answer
-    for l in range (0,len(visit)):
-        if(visit[l]==1):
+    for l in range (0,len(visit))        if(visit[l]==1):
             for a1 in edge[l]:
                 if( visit[a1]==0):#방문을 하지 않았는데
                    t=info[a1]
@@ -37,4 +36,4 @@ def solution(info, edges):
     dfs(1, 0,visit,edge,info )  # 양개수 , 늑대개수 ,현재 방문한얘들 ,visit 배열
 
 
-    return answer
+    return answer:
