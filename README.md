@@ -45,6 +45,16 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 ## 📖 Problem List
 
+### week24
+
+| 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
+| ---- | ---- | ----- | -------------------------------------------------- | ---- | ------ |
+| 1    | BOJ  | 2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)    | ?    | G3     |
+| 2    | BOJ  | 14725 | [개미굴](https://www.acmicpc.net/problem/14725)    | ?    | G3     |
+| 3    | Programmers  |   | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | ?    | ?    |
+
+
+
 ### week23
 
 | 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
