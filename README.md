@@ -45,6 +45,16 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 ## 📖 Problem List
 
+### week25
+
+| 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
+| ---- | ---- | ----- | -------------------------------------------------- | ---- | ------ |
+| 1    | BOJ  | 3425 | [고스택](https://www.acmicpc.net/problem/3425)    | ?    | G3     |
+| 2    | BOJ  | 17780 | [새로운 게임](https://www.acmicpc.net/problem/17780)    | ?    | G2     |
+| 3    | Programmers  |   | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | ?    | ?    |
+
+
+
 ### week24
 
 | 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
