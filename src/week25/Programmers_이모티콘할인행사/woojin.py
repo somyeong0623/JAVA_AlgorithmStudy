@@ -1,7 +1,7 @@
 import sys
 signin=-sys.maxsize
 sales=-sys.maxsize
-#1시간 걸림.....
+
 
 def make(users,emoticons,now,visit,calculated):
     global signin,sales
