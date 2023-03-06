@@ -45,6 +45,15 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 ## 📖 Problem List
 
+### week26
+
+| 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
+| ---- | ---- | ----- | -------------------------------------------------- | ---- | ------ |
+| 1    | BOJ  | 2110 | [공유기 설치](https://www.acmicpc.net/problem/2110)    | ?    | G2     |
+| 2    | BOJ  | 1400 | [화물차](https://www.acmicpc.net/problem/1400)    | ?    | G2     |
+| 3    | BOJ  | 15591  | [MooTube](https://www.acmicpc.net/problem/15591) | ?    | 5    |
+| 4    | BOJ  | 18428  | [감시 피하기](https://www.acmicpc.net/problem/18428) | ?    | 5    |
+
 ### week25
 
 | 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
