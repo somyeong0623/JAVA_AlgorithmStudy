@@ -12,6 +12,7 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 | 서울 14반 | 정진수 |
 | 서울 14반 | 최진우 |
 | 서울 14반 | 정우진 |
+| 서울 14반 | 이영차 |
 
 <br>
 
@@ -47,59 +48,50 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 ### week26
 
-| 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
-| ---- | ---- | ----- | -------------------------------------------------- | ---- | ------ |
-| 1    | BOJ  | 2110 | [공유기 설치](https://www.acmicpc.net/problem/2110)    | ?    | G2     |
-| 2    | BOJ  | 1400 | [화물차](https://www.acmicpc.net/problem/1400)    | ?    | G2     |
-| 3    | BOJ  | 15591  | [MooTube](https://www.acmicpc.net/problem/15591) | ?    | 5    |
-| 4    | BOJ  | 18428  | [감시 피하기](https://www.acmicpc.net/problem/18428) | ?    | 5    |
+| 번호 | 소속 | 문제  | 제목                                                 | 유형 | 난이도 |
+| ---- | ---- | ----- | ---------------------------------------------------- | ---- | ------ |
+| 1    | BOJ  | 2110  | [공유기 설치](https://www.acmicpc.net/problem/2110)  | ?    | G2     |
+| 2    | BOJ  | 1400  | [화물차](https://www.acmicpc.net/problem/1400)       | ?    | G2     |
+| 3    | BOJ  | 15591 | [MooTube](https://www.acmicpc.net/problem/15591)     | ?    | 5      |
+| 4    | BOJ  | 18428 | [감시 피하기](https://www.acmicpc.net/problem/18428) | ?    | 5      |
 
 ### week25
 
-| 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
-| ---- | ---- | ----- | -------------------------------------------------- | ---- | ------ |
-| 1    | BOJ  | 3425 | [고스택](https://www.acmicpc.net/problem/3425)    | ?    | G3     |
-| 2    | BOJ  | 17780 | [새로운 게임](https://www.acmicpc.net/problem/17780)    | ?    | G2     |
-| 3    | Programmers  |   | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | ?    | ?    |
-
-
+| 번호 | 소속        | 문제  | 제목                                                                                  | 유형 | 난이도 |
+| ---- | ----------- | ----- | ------------------------------------------------------------------------------------- | ---- | ------ |
+| 1    | BOJ         | 3425  | [고스택](https://www.acmicpc.net/problem/3425)                                        | ?    | G3     |
+| 2    | BOJ         | 17780 | [새로운 게임](https://www.acmicpc.net/problem/17780)                                  | ?    | G2     |
+| 3    | Programmers |       | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | ?    | ?      |
 
 ### week24
 
-| 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
-| ---- | ---- | ----- | -------------------------------------------------- | ---- | ------ |
-| 1    | BOJ  | 2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)    | ?    | G3     |
-| 2    | BOJ  | 14725 | [개미굴](https://www.acmicpc.net/problem/14725)    | ?    | G3     |
-| 3    | Programmers  |   | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | ?    | ?    |
-
-
+| 번호 | 소속        | 문제  | 제목                                                                                | 유형 | 난이도 |
+| ---- | ----------- | ----- | ----------------------------------------------------------------------------------- | ---- | ------ |
+| 1    | BOJ         | 2533  | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)                          | ?    | G3     |
+| 2    | BOJ         | 14725 | [개미굴](https://www.acmicpc.net/problem/14725)                                     | ?    | G3     |
+| 3    | Programmers |       | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | ?    | ?      |
 
 ### week23
 
-| 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
-| ---- | ---- | ----- | -------------------------------------------------- | ---- | ------ |
-| 1    | BOJ  | 1039 | [교환](https://www.acmicpc.net/problem/1039)    | ?    | G3     |
-| 2    | Programmers  |   | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | ?    | ?    |
-
-
+| 번호 | 소속        | 문제 | 제목                                                                                     | 유형 | 난이도 |
+| ---- | ----------- | ---- | ---------------------------------------------------------------------------------------- | ---- | ------ |
+| 1    | BOJ         | 1039 | [교환](https://www.acmicpc.net/problem/1039)                                             | ?    | G3     |
+| 2    | Programmers |      | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | ?    | ?      |
 
 ### week22
 
-| 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
-| ---- | ---- | ----- | -------------------------------------------------- | ---- | ------ |
-| 1    | BOJ  | 1715 | [카드 정렬하기](https://www.acmicpc.net/problem/1715)    | ?    | G4     |
-| 2    | BOJ  | 2665 | [미로만들기](https://www.acmicpc.net/problem/2665) | ?    | G4     |
-
+| 번호 | 소속 | 문제 | 제목                                                  | 유형 | 난이도 |
+| ---- | ---- | ---- | ----------------------------------------------------- | ---- | ------ |
+| 1    | BOJ  | 1715 | [카드 정렬하기](https://www.acmicpc.net/problem/1715) | ?    | G4     |
+| 2    | BOJ  | 2665 | [미로만들기](https://www.acmicpc.net/problem/2665)    | ?    | G4     |
 
 ### week21
 
 | 번호 | 소속 | 문제  | 제목                                               | 유형 | 난이도 |
 | ---- | ---- | ----- | -------------------------------------------------- | ---- | ------ |
-| 1    | BOJ  | 22866 | [탑 보기](https://www.acmicpc.net/problem/22866)    | ?    | G3     |
-| 2    | BOJ  | 5549 | [행성 탐사](https://www.acmicpc.net/problem/5549) | ?    | G5     |
-| 3    | BOJ  | 2571 | [색종이 - 3](https://www.acmicpc.net/problem/2571) | ?    | G3     |
-
-
+| 1    | BOJ  | 22866 | [탑 보기](https://www.acmicpc.net/problem/22866)   | ?    | G3     |
+| 2    | BOJ  | 5549  | [행성 탐사](https://www.acmicpc.net/problem/5549)  | ?    | G5     |
+| 3    | BOJ  | 2571  | [색종이 - 3](https://www.acmicpc.net/problem/2571) | ?    | G3     |
 
 ### week20
 
