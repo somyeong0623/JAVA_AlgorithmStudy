@@ -50,6 +50,15 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 | 번호 | 소속 | 문제  | 제목                                                 | 유형 | 난이도 |
 | ---- | ---- | ----- | ---------------------------------------------------- | ---- | ------ |
+| 1    | BOJ  | 16638  | [괄호 추가하기 2](https://www.acmicpc.net/problem/16638)  | ?    | G1     |
+| 2    | BOJ  | 1068  | [트리](https://www.acmicpc.net/problem/1068)       | ?    | G5     |
+| 3    | Programmers  |       | [표현가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)     | ?    |      |
+
+
+### week26
+
+| 번호 | 소속 | 문제  | 제목                                                 | 유형 | 난이도 |
+| ---- | ---- | ----- | ---------------------------------------------------- | ---- | ------ |
 | 1    | BOJ  | 2110  | [공유기 설치](https://www.acmicpc.net/problem/2110)  | ?    | G2     |
 | 2    | BOJ  | 1400  | [화물차](https://www.acmicpc.net/problem/1400)       | ?    | G2     |
 | 3    | BOJ  | 15591 | [MooTube](https://www.acmicpc.net/problem/15591)     | ?    | 5      |
