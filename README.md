@@ -48,20 +48,19 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 
 ### week28
 
-| 번호 | 소속 | 문제  | 제목                                                 | 유형 | 난이도 |
-| ---- | ---- | ----- | ---------------------------------------------------- | ---- | ------ |
-| 1    | BOJ  | 1339  | [단어 수학](https://www.acmicpc.net/problem/1339)  | ?    | G4     |
-| 2    | BOJ  | 16957  | [체스판 위의 공](https://www.acmicpc.net/problem/16957)       | ?    | G4     |
-| 3    | Programmers  |       | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)     | ?    |      |
+| 번호 | 소속        | 문제  | 제목                                                                         | 유형     | 난이도 |
+| ---- | ----------- | ----- | ---------------------------------------------------------------------------- | -------- | ------ |
+| 1    | BOJ         | 1339  | [단어 수학](https://www.acmicpc.net/problem/1339)                            | ?        | G4     |
+| 2    | BOJ         | 16957 | [체스판 위의 공](https://www.acmicpc.net/problem/16957)                      | ?        | G4     |
+| 3    | Programmers |       | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | 이진탐색 | lv2    |
 
 ### week27
 
-| 번호 | 소속 | 문제  | 제목                                                 | 유형 | 난이도 |
-| ---- | ---- | ----- | ---------------------------------------------------- | ---- | ------ |
-| 1    | BOJ  | 16638  | [괄호 추가하기 2](https://www.acmicpc.net/problem/16638)  | ?    | G1     |
-| 2    | BOJ  | 1068  | [트리](https://www.acmicpc.net/problem/1068)       | ?    | G5     |
-| 3    | Programmers  |       | [표현가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)     | ?    |      |
-
+| 번호 | 소속        | 문제  | 제목                                                                                    | 유형 | 난이도 |
+| ---- | ----------- | ----- | --------------------------------------------------------------------------------------- | ---- | ------ |
+| 1    | BOJ         | 16638 | [괄호 추가하기 2](https://www.acmicpc.net/problem/16638)                                | ?    | G1     |
+| 2    | BOJ         | 1068  | [트리](https://www.acmicpc.net/problem/1068)                                            | ?    | G5     |
+| 3    | Programmers |       | [표현가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | ?    |        |
 
 ### week26
 
