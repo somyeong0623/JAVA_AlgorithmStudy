@@ -30,7 +30,6 @@ def bfs(r1, c1):
 N, K, R = map(int, stdin.readline().strip().split())  # n*n, k: 마리, r: 정해진 길
 
 adj_mtx = [[[[False for _ in range(N)] for _ in range(N)] for _ in range(N)] for _ in range(N)]
-visited = [[False] * N for _ in range(N)]
 answer = 0
 # 길 위치 담기
 for _ in range(R):
