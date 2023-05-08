@@ -53,6 +53,8 @@ SSAFY 8th 14반 Algorithm Study 입니다.
 | ---- | ---- | ----- | ------------------------------------------------------ | ------ | ------ |
 | 1    | BOJ  | 19591 | [독특한 계산기](https://www.acmicpc.net/problem/19591) | 문자열 | G3     |
 | 2    | BOJ  | 20058 | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | 그래프 | G3     |
+| 3    | BOJ  | 10836 | [여왕벌](https://www.acmicpc.net/problem/10836) | 구현 | G4     |
+
 
 ### week33
 
